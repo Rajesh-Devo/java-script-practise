@@ -1,4 +1,4 @@
- 
+String indexing
 let firstName = "jackdaniels";
 
 
